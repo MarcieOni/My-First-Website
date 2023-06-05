@@ -1,0 +1,34 @@
+h1 {
+    color: #ff1414;
+    background-color: #ffc0cb;
+    font-style: italic;
+    font-weight: 100;
+    text-align: right;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    line-height: 50px;
+    padding-right: 10px;
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    color: #ff1493;
+}
+
+.test {
+    color: aqua;
+}
+
+ul {
+    font-size: 20px;
+    line-height: 30px;    
+}
+
+.pics img {
+    height: 200px;
+}
